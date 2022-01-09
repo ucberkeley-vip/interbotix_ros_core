@@ -30,6 +30,7 @@ int8 PLACE_PITCH_DOWN = 16
 # Move Type
 int8 MOVE_HEXAPOD = 17
 int8 MOVE_LEG = 18
+#more types added later
 
 # Pose Control
 int8 HOME_POSE = 19
@@ -64,6 +65,11 @@ int8 SPEED_DEC = 30
 # Quickly toggle between a fast and slow speed setting
 int8 SPEED_COURSE = 31
 int8 SPEED_FINE = 32
+
+#custom move types
+int8 MOVE_ALGO_LL 33
+int8 MOVE_TURRET 34
+
 
 #########################################################################################################
 
