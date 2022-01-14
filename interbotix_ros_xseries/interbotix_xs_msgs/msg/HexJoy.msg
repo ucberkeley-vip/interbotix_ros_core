@@ -67,8 +67,8 @@ int8 SPEED_COURSE = 31
 int8 SPEED_FINE = 32
 
 #custom move types
-int8 MOVE_ALGO_LL 33
-int8 MOVE_TURRET 34
+int8 MOVE_ALGO_LL = 33
+int8 MOVE_TURRET = 34
 
 
 #########################################################################################################
